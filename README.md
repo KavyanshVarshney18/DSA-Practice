@@ -19,6 +19,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
