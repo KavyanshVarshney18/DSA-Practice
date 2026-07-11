@@ -24,4 +24,20 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2443-sum-of-number-and-its-reverse) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
