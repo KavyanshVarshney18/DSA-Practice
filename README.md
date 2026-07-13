@@ -25,6 +25,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2443-sum-of-number-and-its-reverse) |
 ## Depth-First Search
 |  |
