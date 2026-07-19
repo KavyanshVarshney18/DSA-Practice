@@ -13,6 +13,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Sorting
@@ -57,6 +58,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## String
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 ## Counting
@@ -84,9 +86,11 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
