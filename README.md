@@ -8,6 +8,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Greedy
@@ -93,4 +94,12 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+## Simulation
+|  |
+| ------- |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
