@@ -10,6 +10,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -27,11 +28,13 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -133,13 +136,20 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
