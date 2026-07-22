@@ -6,6 +6,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -172,4 +173,8 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
