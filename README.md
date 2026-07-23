@@ -20,6 +20,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
@@ -140,6 +142,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Divide and Conquer
 |  |
 | ------- |
