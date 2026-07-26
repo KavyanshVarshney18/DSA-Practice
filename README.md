@@ -6,6 +6,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -185,5 +186,6 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
