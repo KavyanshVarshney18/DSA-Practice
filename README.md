@@ -12,6 +12,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -34,6 +35,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -42,6 +44,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2180-count-integers-with-even-digit-sum) |
