@@ -41,6 +41,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
 | ------- |
@@ -188,4 +190,8 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
