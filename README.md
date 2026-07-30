@@ -31,6 +31,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2180-count-integers-with-even-digit-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,6 +94,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
 |  |
