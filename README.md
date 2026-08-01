@@ -13,6 +13,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -51,6 +52,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -205,8 +207,17 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
