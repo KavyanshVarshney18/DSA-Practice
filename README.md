@@ -15,6 +15,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
@@ -214,6 +215,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 ## Counting Sort
 |  |
@@ -232,4 +234,16 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
