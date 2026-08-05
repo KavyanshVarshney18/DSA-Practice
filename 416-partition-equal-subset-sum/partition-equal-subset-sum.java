@@ -12,11 +12,12 @@ class Solution {
 
 
     public boolean helper(int[] nums , int n , int sum ,Boolean[][] dp){
-        if(sum==0){
-            return true;
-        }
+        // if(sum==0){
+        //     return true;
+        // }
         if(n==0){
-            return false;
+            return sum==0? true :false;
+        
         }
 
 
