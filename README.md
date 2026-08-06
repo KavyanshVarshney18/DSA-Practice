@@ -6,6 +6,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -33,6 +34,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -212,6 +214,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
