@@ -30,6 +30,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -46,6 +47,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0455-assign-cookies](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +63,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +245,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 ## Counting Sort
 |  |
 | ------- |
