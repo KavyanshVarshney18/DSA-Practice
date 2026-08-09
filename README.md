@@ -72,6 +72,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -99,6 +100,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0279-perfect-squares) |
 | [2685-count-the-number-of-complete-components](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -237,6 +239,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0368-largest-divisible-subset) |
@@ -271,6 +274,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0279-perfect-squares) |
 | [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
@@ -289,4 +293,8 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
