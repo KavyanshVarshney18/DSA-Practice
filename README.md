@@ -29,6 +29,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -73,6 +74,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0628-maximum-product-of-three-numbers](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -155,6 +157,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -238,6 +241,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0494-target-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -251,6 +255,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -272,4 +277,12 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
