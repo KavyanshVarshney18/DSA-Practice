@@ -34,6 +34,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -129,6 +130,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2423-remove-letter-to-equalize-frequency](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -303,4 +305,12 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0279-perfect-squares) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
