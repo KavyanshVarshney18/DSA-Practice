@@ -6,6 +6,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0015-3sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -57,6 +58,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0354-russian-doll-envelopes) |
@@ -198,6 +200,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0658-find-k-closest-elements) |
