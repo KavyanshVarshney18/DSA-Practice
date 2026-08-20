@@ -41,6 +41,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -200,6 +201,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2180-count-integers-with-even-digit-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
