@@ -33,6 +33,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -88,6 +89,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -178,6 +180,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0560-subarray-sum-equals-k](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
@@ -269,6 +272,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -283,6 +287,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0486-predict-the-winner](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Quicksort
 |  |
 | ------- |
@@ -309,10 +314,12 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 ## Complete Knapsack
 |  |
 | ------- |
