@@ -59,6 +59,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | ------- |
 | [1291-sequential-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2443-sum-of-number-and-its-reverse) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -146,6 +149,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -153,6 +157,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [2423-remove-letter-to-equalize-frequency](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2423-remove-letter-to-equalize-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
