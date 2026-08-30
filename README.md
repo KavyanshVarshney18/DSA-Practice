@@ -36,6 +36,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
@@ -56,6 +57,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
