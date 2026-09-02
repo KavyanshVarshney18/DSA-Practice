@@ -48,6 +48,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
