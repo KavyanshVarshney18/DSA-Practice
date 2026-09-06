@@ -50,6 +50,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [1872-stone-game-viii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3903-smallest-stable-index-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3904-smallest-stable-index-ii) |
 ## Stack
 |  |
 | ------- |
