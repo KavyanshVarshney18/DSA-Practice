@@ -105,6 +105,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3871-count-commas-in-range-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
