@@ -47,6 +47,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
@@ -105,6 +106,7 @@ Collection of my LeetCode and GeeksforGeeks problem solutions in Java
 | [3312-sorted-gcd-pair-queries](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3871-count-commas-in-range-ii](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KavyanshVarshney18/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
